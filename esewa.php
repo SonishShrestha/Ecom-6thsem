@@ -59,7 +59,7 @@
 <input value="<?php echo $pid?>" name="pid" type="hidden">
 <input value="<?php echo $successurl?>" type="hidden" name="su">
 <input value="<?php echo $failedurl?>" type="hidden" name="fu">
-<input type="image" src="images/esewa_og.webp">
+<input type="image" src="images/Capture.PNG">
 <body>
     </form>
 </body>
